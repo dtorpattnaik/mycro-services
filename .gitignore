@@ -8,3 +8,5 @@
 /Mycroservices/.vs
 /src/services/catalog/CatalogService/obj
 /src/.vs/Mycroservices/v17
+/src/.vs/Mycroservices
+/src/services/catalog/CatalogService/bin/Debug/net8.0
