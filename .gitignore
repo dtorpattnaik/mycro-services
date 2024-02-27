@@ -12,3 +12,5 @@
 /src/services/catalog/CatalogService/bin/Debug/net8.0
 /src/.vs/ProjectEvaluation
 /src/services/product/ProductService/obj
+/src/obj/Docker
+/src/services/product/ProductService/bin/Debug/net8.0
