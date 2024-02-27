@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/Mycroservices/.vs/Mycroservices/FileContentIndex
+/src/services/CatalogService/obj
+/Mycroservices/.vs
+/src/services/catalog/CatalogService/obj
+/src/.vs/Mycroservices/v17
